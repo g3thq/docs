@@ -4,8 +4,8 @@
   <ShortName>Ghost Docs</ShortName>
   <Description>Search Ghost Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.g3t.dev/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.g3t.dev//search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.g3t.dev//opensearch.xml" />
-  <moz:SearchForm>https://docs.g3t.dev/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://about.g3t.dev/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://about.g3t.dev/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://about.g3t.dev/opensearch.xml" />
+  <moz:SearchForm>https://about.g3t.dev</moz:SearchForm>
 </OpenSearchDescription>
