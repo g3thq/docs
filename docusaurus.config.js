@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://docs.deta.sh',
   baseUrl: '/',
   favicon: 'img/logo.svg',
-  organizationName: 'Deta',
-  projectName: 'deta-docs',
+  organizationName: 'g3thq',
+  projectName: 'g3thq.github.io',
   themeConfig: {
     navbar: {
       title: 'Deta',
