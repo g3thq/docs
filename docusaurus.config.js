@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Deta Docs',
-  tagline: 'Deta Library and HTTP API docs.',
+  title: 'Ghost Docs',
+  tagline: 'Ghost docs.',
   url: 'https://docs.deta.sh',
   baseUrl: '/',
-  favicon: 'img/logo.svg',
+  favicon: 'img/favicon.ico',
   organizationName: 'g3thq',
   projectName: 'docs',
   themeConfig: {
     navbar: {
-      title: 'Deta',
+      title: 'Ghost',
       logo: {
-        alt: 'Deta Logo',
-        src: 'img/logo.svg',
+        alt: 'Ghost Logo',
+        src: 'img/ghost_logo.png',
         target: '/docs/home',
       },
       items: [
