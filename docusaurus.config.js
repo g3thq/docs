@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   favicon: 'img/logo.svg',
   organizationName: 'g3thq',
-  projectName: 'g3thq.github.io',
+  projectName: 'docs',
   themeConfig: {
     navbar: {
       title: 'Deta',
@@ -73,7 +73,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/g3thq/g3thq.github.io/tree/master/',
+            'https://github.com/g3thq/docs/tree/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
