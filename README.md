@@ -1,6 +1,6 @@
 # Ghost Docs Website
 
-<p align="center"><img src="static/img/ghost_logo.png"></p>
+<p align="center"><img src="static/img/ghost_logo.png" width="350px" height="275px"></p>
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
