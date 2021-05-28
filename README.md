@@ -1,5 +1,7 @@
 # Ghost Docs Website
 
+<p align="center"><img src="static/img/ghost_logo.png"></p>
+
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ### Installation
