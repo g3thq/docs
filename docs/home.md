@@ -10,9 +10,8 @@ title: Home
 Ghost (g3t) is a early stage vuln research project and security toolkit in the areas of container image assurance and IaC.
 It is our mission to provide an open community approach to vuln findings in these areas.
 
-Currently g3t offers a container vulnerability scanner. Check out the downloads page.
+Currently g3t offers a container vulnerability scanner. Check out the [downloads](/docs/downloads) page.
 <br/><br/>
-
 
 
 <!---
