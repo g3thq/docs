@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Ghost Docs',
   tagline: 'Ghost docs.',
-  url: 'https://docs.deta.sh',
+  url: 'https://about.g3t.dev',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'g3thq',
@@ -22,10 +22,20 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/deta/docs',
+          href: 'https://g3t.dev/redoc',
+          label: 'API',
+          position: 'left',
+        },
+        {
+          href: 'https://github.com/g3thq/docs',
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: 'https://twitter.com/g3thq',
+          label: 'Twitter',
+          position: 'right',
+        }
       ],
     },
     algolia: {
@@ -39,12 +49,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Slack',
-              href: 'https://deta-hq.slack.com/',
-            },
-            {
               label: 'Twitter',
-              href: 'https://twitter.com/detahq',
+              href: 'https://twitter.com/g3thq',
             },
           ],
         },
@@ -52,17 +58,13 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              href: 'https://blog.deta.sh/',
-            },
-            {
               label: 'GitHub',
-              href: 'https://github.com/deta/',
+              href: 'https://github.com/g3thq/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Abstract Computing UG (haftungsbeschränkt). `,
+      copyright: `-`,
     },
   },
   presets: [

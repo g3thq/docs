@@ -3,12 +3,19 @@ id: home
 title: Home
 ---
 
-### Intro
 
-Deta is a micro-cloud crafted with the developer and user experience at heart.
 
-It is our mission to dramatically reduce the gap between ideas and working cloud applications.
 
+## Welcome to the Ghost Project
+Ghost (g3t) is a early stage vuln research project and security toolkit in the areas of container image assurance and IaC.
+It is our mission to provide an open community approach to vuln findings in these areas.
+
+Currently g3t offers a container vulnerability scanner. Check out the downloads page.
+<br/><br/>
+
+
+
+<!---
 
 #### Resources
 
@@ -70,3 +77,4 @@ We have answered some [FAQs](faqs.md) in these docs, but we are here to help and
 If you have any questions or feedback, you can reach us:
 - [Slack](https://join.slack.com/t/deta-hq/shared_invite/zt-ej8ygys5-1szO9l~y052Hg04FXdV1iA)
 - [hello@deta.sh](mailto:hello@deta.sh)
+--->
